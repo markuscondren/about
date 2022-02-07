@@ -16,13 +16,7 @@
 
 <h4 align="left">Socials...</h4>
 <p align="left">
-<a href="https://codepen.io/foncyjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="foncyjunior-codepen" height="30" width="40" /></a>
-  
-<a href="https://www.linkedin.com/in/markus-condren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="markus-condren-linked-in" height="30" width="40" /></a>
-  
-<a href="https://stackoverflow.com/users/17098422/foncyjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="foncyjr-stack-overflow" height="30" width="40" /></a>
-
-<a href="https://codesandbox.com/https://codesandbox.io/u/markuscondren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/markuscondren" height="30" width="40" /></a>
+<a href="https://codepen.io/foncyjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="foncyjunior-codepen" height="30" width="40" /></a><a href="https://www.linkedin.com/in/markus-condren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="markus-condren-linked-in" height="30" width="40" /></a><a href="https://stackoverflow.com/users/17098422/foncyjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="foncyjr-stack-overflow" height="30" width="40" /></a><a href="https://codesandbox.com/https://codesandbox.io/u/markuscondren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/markuscondren" height="30" width="40" /></a>
 </p>
 
 <p align="left"><a href="mailto:condrenmarkus@gmail.com?subject=Lets connect!"><h3>Get in touch!</h3></a></p>
