@@ -17,7 +17,7 @@
 <h4 align="left">Socials...</h4>
 <p align="left">
 <a href="https://codepen.io/foncyjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="foncyjunior" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/markus-condren/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/markus-condren/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/markus-condren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/markus-condren/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17098422/foncyjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="foncyjr" height="30" width="40" /></a><a href="https://codesandbox.com/https://codesandbox.io/u/markuscondren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/markuscondren" height="30" width="40" /></a>
 </p>
 
